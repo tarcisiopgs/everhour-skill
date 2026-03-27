@@ -1,10 +1,10 @@
 # everhour-skill
 
-A Claude Code skill for interacting with the [Everhour](https://everhour.com) time tracking API via natural language.
+An AI agent skill for interacting with the [Everhour](https://everhour.com) time tracking API via natural language.
 
 ## What it does
 
-Once installed, this skill lets you control Everhour directly from Claude Code:
+Once installed, this skill lets you control Everhour directly from your AI assistant:
 
 - Track time: start/stop timers, add time to tasks, manage timecards
 - Manage projects, tasks, clients, expenses, and invoices
@@ -36,7 +36,7 @@ get all team timers
 
 ## Installation
 
-Install via the Claude Code skill system by pointing to this repository.
+Install using any SKILL.md-compatible AI tool by pointing to this repository.
 
 ## API Coverage
 
